@@ -8,6 +8,8 @@ Styling: Tailwind CSS
 
 Animations / UI: Framer Motion
 
+Node.js
+
 Features
 
 Simulates scanning of websites or applications for common vulnerabilities
